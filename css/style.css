@@ -55,8 +55,8 @@
    text-align: center;
    top: 50%;
    left: 50%;
-   -webkit-transform: translate3d(50%, 80%, 0);
-   transform: translate3d(-50%, 70%, 0);
+   -webkit-transform: translate3d(50%, 60%, 0);
+   transform: translate3d(-50%, 60%, 0);
     font-size: medium;
   
 }
