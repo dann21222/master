@@ -22,24 +22,20 @@
    left: 50%;
    -webkit-transform: translate3d(-50%, -50%, 0);
    transform: translate3d(-50%, -50%, 0);
-   text-size-adjust: auto;
 }
 
 .demo .main-title {
    text-transform: uppercase;
    font-size: 4.2em;
    letter-spacing: 0.1em;
-   text-size-adjust: auto;
 }
 
 .main-title .thin {
    font-weight: 200;
-   text-size-adjust: auto;
 }
 
 @media only screen and (max-width: 768px) {
    .demo .main-title {
       font-size: 3em;
-      text-size-adjust: auto;
    }
 }
