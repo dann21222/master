@@ -57,6 +57,7 @@
    left: 50%;
    -webkit-transform: translate3d(50%, 90%, 100);
    transform: translate3d(-50%, 90%, 0);
+    font-size: medium;
   
 }
 
