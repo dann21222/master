@@ -43,6 +43,16 @@
    letter-spacing: 0.1em;
 }
 
+.column {
+  width: 100%;
+}
+
+@media (min-width: 600px) {
+  .column {
+    width: 50%;
+  }
+}
+
 .main-title .thin {
    font-weight: 200;
 }
